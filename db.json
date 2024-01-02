@@ -1,0 +1,91 @@
+{
+  "videos": [
+    {
+      "id": "4",
+      "caption": "Neeye",
+      "thumbnail": "https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/hcJ1ZHHahMA"
+    },
+    {
+      "id": "18",
+      "caption": "chaleya",
+      "thumbnail": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "url": "https://www.youtube.com/embed/Q9WMfd96qVo"
+    },
+    {
+      "id": "3",
+      "caption": "salar",
+      "thumbnail": "https://i.ytimg.com/vi/Q9WMfd96qVo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Q9WMfd96qVo"
+    },
+    {
+      "id": "5",
+      "caption": "chaleya",
+      "thumbnail": "https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Q9WMfd96qVo"
+    },
+    {
+      "id": "6",
+      "caption": "animal",
+      "thumbnail": "https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/w_eEnbApH0A"
+    }
+  ],
+  "categories": [
+    {
+      "id": "4",
+      "categoryName": "movie song",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "animal",
+          "thumbnail": "https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/w_eEnbApH0A"
+        },
+        {
+          "id": "18",
+          "caption": "chaleya",
+          "thumbnail": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+          "url": "https://www.youtube.com/embed/Q9WMfd96qVo"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "animal",
+          "thumbnail": "https://i.ytimg.com/vi/Q9WMfd96qVo/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/w_eEnbApH0A"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "categoryName": "favorate",
+      "allVideos": []
+    }
+  ],
+  "watchistory": [
+    {
+      "id": "3e5aac5b-1f33-441f-8d08-bf264c5818e2",
+      "caption": "Neeye",
+      "url": "https://www.youtube.com/embed/hcJ1ZHHahMA",
+      "date": "2023-12-22T06:04:14.448Z"
+    },
+    {
+      "id": "4a9ab19b-c937-4b1e-8255-9697effd0375",
+      "caption": "animal",
+      "url": "https://www.youtube.com/embed/w_eEnbApH0A",
+      "date": "2023-12-22T06:04:16.568Z"
+    },
+    {
+      "id": "19abae6e-b3d5-48cb-b1f7-5e985aee1594",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/Q9WMfd96qVo",
+      "date": "2023-12-22T06:04:18.439Z"
+    }
+  ]
+}
